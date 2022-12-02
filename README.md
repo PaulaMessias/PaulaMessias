@@ -7,24 +7,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe75fe&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=I'm,+currently+learning+about+Salesforce+-+Marketing+Cloud+and+FullStack+Development+🌱)](https://git.io/typing-svg)
 
-  😄 Pronouns: Ela/Dela She/Her<br>
-  
-  <div> 
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a04eb&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=Pronouns:+Ela/Dela+She/Her+😄)](https://git.io/typing-svg)
+<br><br><br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div><br><br><br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulaMessias&bg_color=0d1117&color=ff00a0&line=120458&point=7a04eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+<div>   
   <a href="https://instagram.com/paulinha_ale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/faulinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/a387j9qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paulasm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+  <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
-  <div align="center">
-  <a href="https://github.com/PaulaMessias">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   
 <div style="display: inline_block"><br>
