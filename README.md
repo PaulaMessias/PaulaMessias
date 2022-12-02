@@ -7,7 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe75fe&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=50000&lines=I'm,+currently+learning+about+Salesforce+-+Marketing+Cloud+and+FullStack+Development+🌱)](https://git.io/typing-svg)
 
-  🌱 I'm currently learning about Salesforce - Marketing Cloud and FullStack Development
   😄 Pronouns: Ela/Dela She/Her<br>
   
   <div> 
