@@ -10,38 +10,42 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a04eb&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=Pronouns:+Ela/Dela+She/Her+😄)](https://git.io/typing-svg)
 <br><br><br>
 
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff124f&icon_color=ff00a0&text_color=fe75fe&bg_color=120458" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
 </div><br><br><br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulaMessias&bg_color=0d1117&color=ff00a0&line=120458&point=7a04eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
-<div>   
-  <a href="https://instagram.com/paulinha_ale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/faulinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/a387j9qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:paulasm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-  
-  
-  
-<div style="display: inline_block"><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff124f&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=Main+skills:)](https://git.io/typing-svg) 
+
+<div align="left" style="display: inline_block">  
   <img align="center" alt="Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paula-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Paula-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paula-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paula-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=header"/>  
-  
-  ##
+</div><br><br><br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulaMessias&bg_color=0d1117&color=ff00a0&line=120458&point=7a04eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <br><br><br><br>
+
+
+
+<div align="center" style="display: inline_block">   
+  <a href="https://instagram.com/paulinha_ale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/faulinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/a387j9qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:paulasm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=footer"/>  
+
+  <br><br>
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PaulaMessias}/count.svg" /></p> 
+<br>
+</div>  
 
 <!--
 **PaulaMessias/PaulaMessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
