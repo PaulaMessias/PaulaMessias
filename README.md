@@ -25,11 +25,6 @@
   <img align="center" alt="Paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br><br><br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulaMessias&bg_color=0d1117&color=ff00a0&line=120458&point=7a04eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   <br><br><br><br>
-
-
-
 <div align="center" style="display: inline_block">   
   <a href="https://instagram.com/paulinha_ale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/faulinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
