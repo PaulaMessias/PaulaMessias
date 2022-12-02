@@ -1,7 +1,13 @@
-## Oi! Eu sou a Paula 👋
+##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&height=120&section=header"/>
 
-  🔭 I’m currently working on Front-end<br>
-  🌱 I'm currently learning about Salesforce - Marketing Cloud and FullStack Development<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff124f&size=45&left=true&vCenter=true&width=1000&duration=2000&height=50&pause=50000&lines=Olá,+Eu+sou+a+Paula+Messias+👋)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00a0&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=50000&lines=I’m,+currently+working+on+Front-end+🔭)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe75fe&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=50000&lines=I'm,+currently+learning+about+Salesforce+-+Marketing+Cloud+and+FullStack+Development+🌱)](https://git.io/typing-svg)
+
+  🌱 I'm currently learning about Salesforce - Marketing Cloud and FullStack Development
   😄 Pronouns: Ela/Dela She/Her<br>
   
   <div> 
@@ -20,6 +26,8 @@
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paula-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,6 +38,9 @@
   <img align="center" alt="Paula-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=header"/>  
   
   ##
 
