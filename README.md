@@ -31,7 +31,9 @@
  <a href="https://discord.gg/a387j9qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paulasm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>  
+</div> <br><br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=ff00a0)](https://github.com/PaulaMessias/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=footer"/>  
 
