@@ -16,7 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
 </div><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff124f&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=Main+skills:)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ffff&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=1000&lines=Main+skills:)](https://git.io/typing-svg) 
 
 <div align="left" style="display: inline_block">  
   <img align="center" alt="Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
