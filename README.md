@@ -1,6 +1,9 @@
 ##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&height=120&section=header"/>
 
+<img width=100% height=190 src="https://media.giphy.com/media/9B7XwCQZRQfQs/giphy.gif"/> 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff124f&size=45&left=true&vCenter=true&width=1000&duration=2000&height=50&pause=5000&lines=Olá,+Eu+sou+a+Paula+Messias+👋)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00a0&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=5000&lines=I’m,+currently+working+on+Front-end+🔭)](https://git.io/typing-svg)
@@ -38,6 +41,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=footer"/>  
 
+  <br><br>
+  <img width=100% height=190 src="https://media.giphy.com/media/KETTXY34XNgWZBxvqx/giphy.gif"/> 
   <br><br>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
