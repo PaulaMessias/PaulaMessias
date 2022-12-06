@@ -34,7 +34,7 @@
 </div> <br><br><br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=ff00a0)](https://github.com/PaulaMessias/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=22ffff)](https://github.com/PaulaMessias/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=footer"/>  
 
