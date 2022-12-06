@@ -19,9 +19,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
 </div><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ffff&size=15&left=true&vCenter=true&width=1000&duration=2000&height=15&pause=1000&lines=Main+skills:)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ffff&size=15&center=true&vCenter=true&width=1000&duration=2000&height=15&pause=1000&lines=Main+skills:)](https://git.io/typing-svg) 
 
-<div align="left" style="display: inline_block">  
+<div align="center" style="display: inline_block">  
   <img align="center" alt="Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paula-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,11 +39,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=22ffff)](https://github.com/PaulaMessias/github-readme-activity-graph)
 
+<br><br><br><br>
+<img width=100% height=190 src="https://media.giphy.com/media/QU7IFSUto0kIV0l5H8/giphy.gif"/> 
+  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff124f,50:ff00a0,50:fe75fe,50:7a04eb,50:120458&rotate=360&height=120&section=footer"/>  
 
-  <br><br>
-  <img width=100% height=190 src="https://media.giphy.com/media/KETTXY34XNgWZBxvqx/giphy.gif"/> 
-  <br><br>
+  <br><br> 
+  
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PaulaMessias}/count.svg" /></p> 
