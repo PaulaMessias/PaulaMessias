@@ -11,13 +11,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe75fe&size=25&left=true&vCenter=true&width=1000&duration=2000&height=25&pause=5000&lines=I'm,+currently+learning+about+Salesforce+-+Marketing+Cloud+and+FullStack+Development+🌱)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a04eb&size=25&left=true&vCenter=true&width=1000&duration=2000&height=25&pause=5000&lines=Pronouns:+Ela/Dela+She/Her+😄)](https://git.io/typing-svg)
-<br><br><br>
+<br>
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff124f&icon_color=ff00a0&text_color=fe75fe&bg_color=120458" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
-</div><br><br><br>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff124f&icon_color=ff00a0&text_color=fe75fe&bg_color=120458" alt="Caroline Barbosa github stats" /> 
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
+</div><br><br><br>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ffff&size=15&center=true&vCenter=true&width=1000&duration=2000&height=15&pause=1000&lines=Main+skills:)](https://git.io/typing-svg) 
 
