@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe75fe&size=25&left=true&vCenter=true&width=1000&duration=2000&height=25&pause=5000&lines=I'm,+currently+learning+about+Salesforce+-+Marketing+Cloud+and+FullStack+Development+🌱)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a04eb&size=25&left=true&vCenter=true&width=1000&duration=2000&height=25&pause=5000&lines=Pronouns:+Ela/Dela+She/Her+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a04eb&size=20&left=true&vCenter=true&width=1000&duration=2000&height=25&pause=5000&lines=Pronouns:+Ela/Dela+She/Her+😄)](https://git.io/typing-svg)
 <br>
 
 
