@@ -17,7 +17,7 @@
 <div align="center">  
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff124f&icon_color=ff00a0&text_color=fe75fe&bg_color=120458" alt="Paula Messias github stats" />
 
-  <!--<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458&count_private=true" />-->
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
 </div><br><br><br>
 
 
