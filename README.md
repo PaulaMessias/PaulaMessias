@@ -38,8 +38,8 @@
   <a href="https://www.linkedin.com/in/paula-messias-33a220117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div> <br><br><br>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=22ffff)](https://github.com/PaulaMessias/github-readme-activity-graph)
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulaMessias&bg_color=120458&color=ff124f&title_color=ff124f&point=fe75fe&line=22ffff)](https://github.com/PaulaMessias/github-readme-activity-graph) -->
 
 <br><br><br><br>
 <img width=100% height=190 src="https://media.giphy.com/media/QU7IFSUto0kIV0l5H8/giphy.gif"/> 
