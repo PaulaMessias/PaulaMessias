@@ -17,8 +17,8 @@
 <div align="center">  
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=PaulaMessias&show_icons=true&count_private=true&hide_border=true&title_color=ff124f&icon_color=ff00a0&text_color=fe75fe&bg_color=120458" alt="Paula Messias github stats" />
 
- <!--<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
-</div><br><br><br> -->
+ <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMessias&layout=compact&hide_border=true&title_color=ff00a0&text_color=fe75fe&bg_color=120458" />
+</div><br><br><br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ffff&size=15&center=true&vCenter=true&width=1000&duration=2000&height=15&pause=1000&lines=Main+skills:)](https://git.io/typing-svg) 
@@ -30,7 +30,7 @@
   <img align="center" alt="Paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br><br><br>
 
-<div align="center" style="display: inline_block">   
+<div align="center" style="display: inline_block" target="_blank">   
   <a href="https://instagram.com/paulinha_ale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/faulinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/a387j9qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
